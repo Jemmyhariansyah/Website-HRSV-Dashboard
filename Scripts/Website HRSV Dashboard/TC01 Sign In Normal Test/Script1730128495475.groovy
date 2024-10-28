@@ -27,3 +27,5 @@ WebUI.setText(findTestObject(''), Username)
 
 WebUI.maximizeWindow()
 
+WebUI.closeBrowser()
+
